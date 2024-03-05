@@ -1,0 +1,1 @@
+This analysis utilized data sourced from Yahoo Finance. The study employed a Recurrent Neural Network (RNN) methodology to forecast and subsequently compare the predictions against the actual stock prices of Facebook
